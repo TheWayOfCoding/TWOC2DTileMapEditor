@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="2DTileEditor.exe" version="1.0.0.0" publicKeyToken="266c7e3dd25246bb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="2DTileEditor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="2DTileEditor.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="2DTileEditor.exe" size="94688">
+      <assemblyIdentity name="2DTileEditor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0Lyohm399IxqSTHe/bLGJs2q4IurqNM0DPrcX5C0c5U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="2DTileEditor.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eSEJjkfolEEv39DK/g+IzGhJd0CZjqwXxowAEpBp2AM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-M8PDD6J\Scott" issuerKeyHash="8f5411a571cc0e6d86138936a9146e9af1f682f4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wWIgiJbbzKfGPRxPV0Siw07PNjTm0yaqqld0qy4B1Dk=</DigestValue></Reference></SignedInfo><SignatureValue>AumxIxZxJ/tf/vOCAaFVfcBPuDUO19YMdJ6rGQhTyYp49zrc5GQpDD3d6ZKpwwzwTaUW/SCPbUH3YxOC7Gp5vjhTyt9TjFPVW+HyKKxOh0tGrXtewYMWHOEaGO2WQiCFCklQvyxJl5BAs/CicNX9rstRbVnWk3Bp0Ze8cxzKX+A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3Wb90JzI9UyDrzWq5hcNV2WVnHvWU7rtB4PQyBrZEn7AVi3rRy3MHoxtOtLRRd+AnqF+2gcu+bV0kDcWwiySYe5ZREgbXuurIz/iyAwm76uwxlSBJ+gKPRsMy1+IbrYyk6Njup/wqbOMBlxQDDet1wvtzato5KuluUUJjAQW+30=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="39d4012eab7457aaaa26d3e63436cf4ec3a244574f1c3dc6a7ccdb96882062c1" Description="" Url=""><as:assemblyIdentity name="2DTileEditor.exe" version="1.0.0.0" publicKeyToken="266c7e3dd25246bb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-M8PDD6J\Scott</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>mltBBeYVeqh5AoId20fT7eyNxdIv1HqvpWIME4wxPzg=</DigestValue></Reference></SignedInfo><SignatureValue>AIcl71ijuIb1YuNcb836NExGZXoJLJgn61qjitVas59uFxDJnmkDds1QzBLYTliGHo1rkdrFIaeuj6H0oIcxiJ8lb26wxMjMd/6/wotjbfa0tb80i76n40JeoP3L3FJSTkBQ0uzFo3btL4ptgJkJxvQduOCPrujulK/bntBipSs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3Wb90JzI9UyDrzWq5hcNV2WVnHvWU7rtB4PQyBrZEn7AVi3rRy3MHoxtOtLRRd+AnqF+2gcu+bV0kDcWwiySYe5ZREgbXuurIz/iyAwm76uwxlSBJ+gKPRsMy1+IbrYyk6Njup/wqbOMBlxQDDet1wvtzato5KuluUUJjAQW+30=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQMaLKODXrwYdCBBblmEcCcDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE0AOABQAEQARAA2AEoAXABTAGMAbwB0AHQwHhcNMjIwMzIxMDE0MjQzWhcNMjMwMzIxMDc0MjQzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAE0AOABQAEQARAA2AEoAXABTAGMAbwB0AHQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAN1m/dCcyPVMg681quYXDVdllZx71lO67QeD0Mga2RJ+wFYt60ctzB6MbTrS0UXfgJ6hftoHLvm1dJA3FsIskmHuWURIG17rqyM/4sgMJu+rsMZUgSfoCj0bDMtfiG62MpOjY7qf8KmzjAZcUAw3rdcL7c2raOSrpblFCYwEFvt9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAEFdqJ2RD2u7hv4PDT7xk5Vs9hFqedYeDnTnfmb7VamSN/ZbQQDpMl6TEuRiWnBeShZfiL17DZgFVAs74tgvnARrQHZ8TGeK+1HvcC6u+w9VHIBfndfDPUO2XirUXLeK+OLMpSkt8D0BZOdWbfQG6MQlFUL6DtDOGQcXJkRuPTcw=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

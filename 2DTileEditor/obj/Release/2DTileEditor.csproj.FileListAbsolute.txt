@@ -1,0 +1,17 @@
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\bin\Release\2DTileEditor.exe.config
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\bin\Release\2DTileEditor.exe
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\bin\Release\2DTileEditor.pdb
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\_2DTileEditor.frmAbout.resources
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\_2DTileEditor.frm2DTileEditor.resources
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\_2DTileEditor.frmLoadTileSet.resources
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\_2DTileEditor.frmNewMap.resources
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\_2DTileEditor.Properties.Resources.resources
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.csproj.GenerateResource.cache
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.csproj.CoreCompileInputs.cache
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.exe
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.pdb
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\bin\Release\2DTileEditor.exe.manifest
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\bin\Release\2DTileEditor.application
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.csproj.AssemblyReference.cache
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.exe.manifest
+C:\Users\Scott\ETC\02-Development\Public-TWOC2DTileMapEditor\2DTileEditor\obj\Release\2DTileEditor.application
